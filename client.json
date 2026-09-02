@@ -1,7 +1,1 @@
-{
-  "packageName": "com.rosedamt.client",
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apk": "https://github.com/alnadeemhot123-afk/Rose-Damt-Updates/releases/latest/download/Rose-Damt-Client.apk",
-  "sha256": "bfe0c78c6a099b8baaa4eca4dcb9a7d6ea9abf2ecd6b8a0b2263dde69422922e"
-}
+{"packageName":"com.rosedamt.client","versionCode":2,"versionName":"1.1","apk":"https://github.com/alnadeemhot123-afk/Rose-Damt-Updates/releases/download/client-v1.1/Rose-Damt-Client.apk","sha256":"b07c9a852dc4ba1b82d0c1dfdb7e38e1b5a710787a07ecf2b7a6243d45e579c7"}
